@@ -11,7 +11,7 @@ pipeline {
         stage('Checkout') {
             steps {
               git branch:'main',
-                url: 'https://github.com/ananyasanu622-dot/demo-app.git'
+                url: 'https://github.com/ananyasanu622-dot/522.git'
             }
         }
 
